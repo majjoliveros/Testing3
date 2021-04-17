@@ -1,1 +1,22 @@
-Creation of file
+<!DOCTYPE html>
+<html lang="en-US">
+<body {background-color: power blue;}
+  <h1 style="background-color:dodgerblue;">My first heading</h1>
+  <h2 style="color:white;font-size:200%;text-align:center;">My second heading</h2>
+  <h3 style="border:2px solid white;">My third heading</h3>
+<pre>
+  <p style="color:blue;font-size:20px;border:2px solid powderblue;margin: 50px;
+"> This a paragraph.</p>
+</pre>
+  <p><i><b>Color is</i></b> <del>blue</del>red.</p>
+<p style="background-color:rgb(90, 90, 90);">My setting<rgb(10, 10, 10)>
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+<!-- Write your comments here -->
+
+
+<img src="Aws error.PNG" alt="error" width="200" height="200">
+<a href="https://codepen.io/marcysutton/pen/ZYqjPj">Link</a>
+<p title"=I'm a tool">paragraph</p>
+</body>
+</html>
+
